@@ -10,7 +10,7 @@ This repo contains a unique R code to set a tidy data.
 * run_analysis.R : All the R work
 
 ## Aproach
-This was the steps I followed
+These were the steps I followed
 1. Download the datafile
 2. Unzip the file if it wasn't downoladed before
 3. Create a matrix with the column names using the features.txt file
