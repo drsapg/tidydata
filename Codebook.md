@@ -1,4 +1,4 @@
-## Codebook
+# Codebook
 ####By: Santiago Patiño-Giraldo
 
 The run_analysis.R file creates two dataframes: finaldataset and tidydata.
