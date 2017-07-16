@@ -22,7 +22,7 @@ This was the steps I followed
 * Erase the other matrices
 5. Create the dataframe of Train data
 * Load x, y and subject test txt files
-* Asign activity names to the y_train dataframe
+* Asign activity names to the y_train dataframe to create the finaldataset dataframe
 * Create a special factor variable indicating the type of measure "Train"
 * Bind all matrices into one traindata dataframe
 * Erase the other matrices
